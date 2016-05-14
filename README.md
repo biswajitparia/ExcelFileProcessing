@@ -1,6 +1,6 @@
 QUIZ INPUT:
 ==========
-3 2
+3 2 (column row)
 
 A2
 
